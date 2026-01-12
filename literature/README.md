@@ -1,2 +1,2 @@
-This folder mirrors the section structure of the review paper.
-Each file corresponds to one major section and summarizes its core ideas and scope.
+This folder contains structured records of papers discussed in the review.
+Each entry summarizes task setting, inference structure, constraints, and key takeaways, with links to original sources.
